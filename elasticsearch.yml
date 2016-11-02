@@ -7,6 +7,8 @@ node:
 
 network.host: ${NETWORK_HOST}
 
+action.auto_create_index: .security
+
 path:
   data: /data/data
   logs: /data/log
